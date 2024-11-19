@@ -35,14 +35,13 @@ Node.js for the backend, MySQL as the database, and Docker for containerization.
 
 
 # env varivbles
- ======== COPY HERE ==========
 MYSQL_ROOT_PASSWORD=yourpassword
 MYSQL_DATABASE=tasks_management
 MSQL_USER=root
 PORT=3000
 FRONTEND="http://localhost:5173"
 JWT_SECRET=secret
- ======== COPY HERE ==========
+
 
 
 
